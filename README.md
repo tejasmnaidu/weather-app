@@ -3,7 +3,7 @@
 A modern weather application built using React and Chart.js that shows real-time weather and a 24-hour forecast with graphs.
 
 ## 🚀 Live Demo  
-(Will be added after deployment)
+https://weather-app-mu-ruby-19.vercel.app/
 
 ## ✨ Features
 - 🌍 Auto-detect user location (Geolocation API)
